@@ -75,7 +75,7 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
-# Tonight 
+# Today 
 
 - Laura Brugger is here to talk about GitHub 
 <center><br>
@@ -99,11 +99,11 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
-# For tonight...GitHub with Laura Brugger
+# R-Ladies STL Meetup #7: GitHub with Laura Brugger
 
 - Wifi 
     + MSGUEST 
-    + event attendee code:  
+    + event attendee code: msevent151up 
 
 - Things to do before we start:
     +	Register an account with GitHub (it's free!) 
